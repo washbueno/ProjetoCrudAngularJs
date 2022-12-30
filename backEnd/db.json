@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "Tv Samsung 55 Polegadas Ultra-HD",
+      "price": "5350.00",
+      "id": 1
+    },
+    {
+      "name": "iPhone 11 ProMax",
+      "price": "5000.00",
+      "id": 2
+    }
+  ]
+}
